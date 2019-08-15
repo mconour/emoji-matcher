@@ -1,3 +1,3 @@
 # memory-card-game
 
-Emoji memory game using React and Lodash
+Memory card emoji game using React and Lodash
