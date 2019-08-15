@@ -33,7 +33,7 @@ class MemoryGame extends React.Component{
   }
   
   shuffleCards(){
-    //console.log('shuffle');
+    
     
     let multipliedCards = this.multiplyCards(uniqueCards,matchCardsNum);
     let shuffled = _.shuffle(multipliedCards);
@@ -99,7 +99,7 @@ class MemoryGame extends React.Component{
           
         }, curCards[0].position); 
         
-       //console.log('WINTEST='+winTest);
+       
        if(winTest !== false){
          this.addWin();
        }
@@ -108,7 +108,7 @@ class MemoryGame extends React.Component{
         curCards = this.changeAllPositionsOfSelected(curCards,curSelectedCards,"unselected");
       }
     
-      // Only curCards is transformed
+      // curCards transformed only
       return curCards;
   }
 
@@ -121,7 +121,7 @@ class MemoryGame extends React.Component{
       let curSelectedCards = _.concat(this.state.selectedCards, index);
       let curCards = this.state.cards;
 
-      //if(curSelectedCards.length !== )
+      //if (curSelectedCards.length !== )
       //console.log('cards stored: '+curSelectedCards.length);
 
       curCards[curSelectedCards[ curSelectedCards.length-1 ]].position="selected";
@@ -130,7 +130,7 @@ class MemoryGame extends React.Component{
 
           this.setState({
             
-            //selectedCards: curSelectedCards,
+           
             cards: curCards
           })
 

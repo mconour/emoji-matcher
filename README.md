@@ -1,2 +1,3 @@
 # memory-card-game
-Memory game using React and React Hooks (useState, useEffect)
+
+Emoji memory game using React and Lodash
