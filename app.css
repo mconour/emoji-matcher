@@ -286,42 +286,42 @@ body::after {
     display: block;
 }
 
-.card--burrito .card__back {
+.card--ogre .card__back {
     background-color: pink;
 }
 
-.card--burrito .card__back::before {
-    content: "🌯";
+.card--ogre .card__back::before {
+    content: "👹";
 }
 
-.card--kiss .card__back {
+.card--merperson .card__back {
     background-color: green;
 }
 
-.card--kiss .card__back::before {
-    content: "💋";
+.card--merperson .card__back::before {
+    content: "🧜";
 }
 
-.card--coffee .card__back {
+.card--hackercat .card__back {
     background-color: goldenrod;
 }
 
-.card--coffee .card__back::before {
-    content: "☕";
+.card--hackercat .card__back::before {
+    content: "🐱‍💻";
 }
 
-.card--beer .card__back {
+.card--virus .card__back {
     background-color: brown;
 }
 
-.card--beer .card__back::before {
-    content: "🍺";
+.card--virus .card__back::before {
+    content: "👾";
 }
 
-.card--pitchfork .card__back {
+.card--eyespeech .card__back {
     background-color: blue;
 }
 
-.card--pitchfork .card__back::before {
-    content: "🔱";
+.card--eyespeech .card__back::before {
+    content: "👁️‍🗨️";
 }

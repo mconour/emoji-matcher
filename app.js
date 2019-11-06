@@ -1,6 +1,6 @@
 //requires lodash, react, reactDOM
 
-const uniqueCards = ["burrito", "kiss", "coffee", "beer", "pitchfork"];
+const uniqueCards = ["ogre", "merperson", "hackercat", "virus", "eyespeech"];
 const numCardsToMatch = 2;
 
 class MemoryGame extends React.Component {
