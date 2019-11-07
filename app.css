@@ -89,7 +89,7 @@ body {
 }
 
 .center-child {  
-    background-image: url(/gif/arcade-bk.gif);   
+    background-image: url(gif/arcade-bk.gif);   
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
