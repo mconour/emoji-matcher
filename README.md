@@ -1,1 +1,3 @@
-# Emoji match game using React and Lodash
+# Emoji Matcher Game
+
+Used Lodash and React
