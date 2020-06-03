@@ -292,20 +292,20 @@ body::after {
     content: "👹";
 }
 
-.card--merperson .card__back {
+.card--goblin .card__back {
     background-color: green;
 }
 
-.card--merperson .card__back::before {
-    content: "🧜";
+.card--goblin .card__back::before {
+    content: "👺";
 }
 
-.card--hackercat .card__back {
+.card--robot .card__back {
     background-color: goldenrod;
 }
 
-.card--hackercat .card__back::before {
-    content: "🐱‍💻";
+.card--robot .card__back::before {
+    content: "🤖";
 }
 
 .card--virus .card__back {
@@ -321,5 +321,5 @@ body::after {
 }
 
 .card--eyespeech .card__back::before {
-    content: "👁️‍🗨️";
+    content: "👁️";
 }
