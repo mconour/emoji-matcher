@@ -1,4 +1,4 @@
-# Emoji Matcher
+# Emoji Matcher Game
 
 
 ```
