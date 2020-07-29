@@ -3,7 +3,9 @@
 
 ```
 Frameworks & Libraries: React  
-Other: Lodash
+Other: Lodash, CSS, HTML
 ```
 
-https://mconour.github.io/emoji-matcher/
+[Demo](https://mconour.github.io/emoji-matcher/)
+
+
