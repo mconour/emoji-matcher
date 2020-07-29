@@ -1,3 +1,9 @@
-# Emoji Match Game
+# Emoji Matcher
 
-Used Lodash and React
+
+```
+Frameworks & Libraries: React  
+Other: Lodash
+```
+
+https://mconour.github.io/emoji-matcher/
