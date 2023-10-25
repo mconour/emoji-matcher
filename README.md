@@ -64,6 +64,4 @@ Please make sure you have a basic understanding of React and how to set up a Rea
 
 ### Try It Out
 
-Enjoy playing Emoji Matcher 🎉 by visiting the following link:
-
-[Play Emoji Matcher](https://mconour.github.io/emoji-matcher/)
+Enjoy playing Emoji Matcher 🎉 by visiting the following link: [Play Emoji Matcher](https://mconour.github.io/emoji-matcher/)
