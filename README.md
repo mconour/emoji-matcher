@@ -1,6 +1,6 @@
 ## Emoji Matcher - Memory Game
 
-Emoji Matcher is a simple memory card matching game built with React. The goal of the game is to match pairs of emoji cards. You can use this README.md file to understand how the game is structured and how to set it up.
+Emoji Matcher is a simple memory card matching game built with React. The goal of the game is to match pairs of emoji cards. 
 
 ### Prerequisites
 
