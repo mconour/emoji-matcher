@@ -62,4 +62,10 @@ You can customize the game by changing the `uniqueCards` array to use different 
 
 Please make sure you have a basic understanding of React and how to set up a React application before using this code.
 
-Enjoy playing Emoji Matcher - Memory Game! 🎉
+Enjoy playing Emoji Matcher 🎉
+
+### Try It Out
+
+You can play Emoji Matcher by visiting the following link:
+
+[Play Emoji Matcher](https://mconour.github.io/emoji-matcher/)
