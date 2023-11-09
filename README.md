@@ -2,8 +2,6 @@
 
 Emoji Matcher is a simple memory card matching game built with React. The goal of the game is to match pairs of emoji cards. 
 
-![Facial Mood Detection Application](imgs/screenshot.png)
-
 ### Prerequisites
 
 Before you can use Emoji Matcher, make sure you have the following dependencies installed:
